@@ -18,7 +18,6 @@
     "pgcli@latest",
     "sd@latest",
     "zoxide@latest",
-    "tree-sitter@latest",
     "carapace@latest",
     "awscli2@latest",
     "aws-sso-creds@latest",
@@ -34,7 +33,9 @@
     "nodejs@latest",
     "go@latest",
     "lua@latest",
-    "mkcert@latest"
+    "mkcert@latest",
+    "git@latest",
+    "terraform-ls@latest"
   ],
   "shell": {
     "init_hook": [
